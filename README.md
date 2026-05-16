@@ -1,6 +1,6 @@
 # 🚀 NEXCENTAURI AI POS
 
-![Version](https://img.shields.io/badge/version-4.1.7-blue.svg)
+![Version](https://img.shields.io/badge/version-4.1.8-blue.svg)
 ![Electron](https://img.shields.io/badge/Platform-Electron-47848F.svg?logo=electron)
 ![React](https://img.shields.io/badge/Frontend-React.js-61DAFB.svg?logo=react)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-003B57.svg?logo=sqlite)
